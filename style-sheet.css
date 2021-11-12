@@ -1,0 +1,30 @@
+h3 {
+    float: left;
+    display: block;
+    padding: 15px;
+  }
+  .topNavBar
+  img {
+    float: left;
+  }
+    
+  .heroSection
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .topNavBar{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .bottomNavBar{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+  }
